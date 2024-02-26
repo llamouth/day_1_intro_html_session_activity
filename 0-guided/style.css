@@ -1,0 +1,20 @@
+h2 {
+    color: #007A79;
+    font-family: "Comic Neue", sans-serif;
+}
+
+p {
+    color: #231A1A;
+    font-family: "Montserrat", sans-serif;
+}
+
+.why {
+    color: #E02424;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.img-text {
+    font-style: italic;
+    font-family: "Inconsolata", sans-serif;
+}
